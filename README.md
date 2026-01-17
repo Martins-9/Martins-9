@@ -42,7 +42,7 @@ Busco uma oportunidade como *Jovem Aprendiz* ou *estágio*, onde eu possa aprend
 ## 📫 Contato
 
 LinkedIn: https://www.linkedin.com/in/enzo-martins-60b664387
-GitHub: https://github.com/Martins-9
+GitHub: https://github.com/enzo-m-tech
 
 ---
 
