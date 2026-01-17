@@ -1,26 +1,51 @@
-# Enzo Martins
+# 👋 Olá! Eu sou o Enzo Martins
 
+Sou um jovem interessado em tecnologia e programação, buscando minha *primeira oportunidade profissional*. Gosto de aprender na prática e transformar ideias em projetos.
 
-**`Programador `**
-
-Tenho 16 anos e estou estudando para me tornar profissional na área de programação, buscando aprender mais e adquirir experiência prática. Atualmente, iniciei meus estudos em Python e pretendo expandir meus conhecimentos para outras linguagens e tecnologias.
-<p align="left">
-    
-           
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Interesses e áreas que estou estudando
 
+- Desenvolvimento de software
+- Projetos simples e práticos
+- Git e GitHub
+- Comunicação e atendimento ao cliente
+- Aprendizado contínuo
+- Python(Básico-lógica e automação)
+- Java (início-POO e estrutura)
+---
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+## 🧩 Projetos no GitHub
 
-<br/>
-<br/>
+- Temperatura — (meu primeiro projeto)
 
+(Confira meus projetos no GitHub!)
+
+---
+
+## 🎯 Objetivo
+
+Busco uma oportunidade como *Jovem Aprendiz* ou *estágio*, onde eu possa aprender, me desenvolver e contribuir com responsabilidade e foco.
+
+---
+
+## 🗣️ Habilidades pessoais
+
+- Boa comunicação
+- Facilidade em ouvir e aprender
+- Organização
+- Iniciativa
+- Interesse genuíno em melhorar
+
+---
+
+## 📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/enzo-martins-60b664387
+GitHub: https://github.com/Martins-9
+
+---
+
+## 📍 Sobre mim
+
+Gosto de desafios, aprender coisas novas e trabalhar com pessoas. Acredito que tecnologia e comunicação combinadas podem abrir portas para grandes oportunidades.
