@@ -10,5 +10,6 @@ Turning data into decisions with Python, Power BI and AI
 Python • Pandas • Power BI • SQL • Matplotlib • Jupyter Notebook • Excel
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzomartins-60b664387)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzom9260@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/enzo-martins-60b664387)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzo.m.tech2026@gmail.com)
